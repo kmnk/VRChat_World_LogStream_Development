@@ -53,5 +53,5 @@
         "Temp/": true
     },
     "dotnet.preferCSharpExtension": true,
-    "dotnet.defaultSolution": "LogStream_Development.sln"
+    "dotnet.defaultSolution": "VRChat_World_LogStream_Development.sln"
 }
